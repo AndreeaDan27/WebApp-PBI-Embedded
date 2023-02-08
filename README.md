@@ -21,9 +21,9 @@ Within the app.py file -> Ctrl + F5 and run the application
 
 Go to localhost:8080 (test it out)
 
-`npm install bootstrap jquery popper.js`
+`npm install bootstrap jquery popper.js` (while in the frontend folder)
 
-`npm install vue-router@4`
+`npm install vue-router@4` (while in the frontend folder)
 
 `pip install flask-cors`
 
