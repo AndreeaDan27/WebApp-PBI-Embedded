@@ -39,8 +39,7 @@ Run **Vue** Server (frontend) in another parallel terminal: cd into the *fronten
 
 Yes, you can embed your power bi report in your flask web application. There are two methods to achieve this -
 
-Embedding for your organization - Reference link
-Embedding for your customers - Reference link
+Embedding for your organization OR Embedding for your customers  ->[label](https://app.powerbi.com/embedsetup)
 I will focus on the second method (it will require pro account):
 
 Step 1: Register your power BI application here. Moreover, copy your application id.
